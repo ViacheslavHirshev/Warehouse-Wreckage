@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/programs/UnrealProjects/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/programs/UnrealProjects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/programs/UnrealProjects/WarehouseWreckage/Content/BP_Projectile.uasset",
+				"D:/programs/UnrealProjects/WarehouseWreckage/Content/MainMap.umap",
+				"D:/programs/UnrealProjects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"D:/programs/UnrealProjects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset",
+				"D:/programs/UnrealProjects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel04.uasset",
+				"D:/programs/UnrealProjects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Box02.uasset"
+			]
+		}
+	]
+}
